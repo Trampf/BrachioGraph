@@ -96,14 +96,14 @@ Take the BrachioGraph for a drive
 Controls:
 
 * 0: ``exit``
-* a: ``increase x position 1cm``
-* s: ``decrease x position 1cm``
-* A: ``increase x position .1cm``
-* S: ``decrease x position .1cm``
-* k: ``increase y position 1cm``
-* l: ``decrease y position 1cm``
-* K: ``increase y position .1cm``
-* L: ``decrease y position .1cm``
+* a: ``decrease x position 1cm``
+* s: ``increase x position 1cm``
+* A: ``decrease x position .1cm``
+* S: ``increase x position .1cm``
+* k: ``decrease y position 1cm``
+* l: ``increase y position 1cm``
+* K: ``decrease y position .1cm``
+* L: ``inacrease y position .1cm``
 
 Use this to discover the bounds of the box the BrachioGraph can draw.
 
