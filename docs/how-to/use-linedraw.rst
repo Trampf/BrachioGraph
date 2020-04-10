@@ -74,6 +74,11 @@ Use the SVG file to check
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Check the results by opening the SVG file. You can draw the JSON file with ``BrachioGraph.plot_file("<file_name>")``.
+Remember to include the filepath. 
+
+Example, if you initalized it with your values before:
+
+``bg.plot_file("/home/pi/BrachioGraph/images/africa.json")``
 
 
 Convert an image to lines using ``vectorise()``
